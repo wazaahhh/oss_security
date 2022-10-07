@@ -1,3 +1,5 @@
 
 analysis/data/*.json
+analysis/data/repos/*.json
+analysis/data/users/*.json
 analysis/data.zip
